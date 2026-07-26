@@ -1,0 +1,9 @@
+[requires]
+libuv/1.51.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout
